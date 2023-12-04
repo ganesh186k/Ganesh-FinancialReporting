@@ -11,3 +11,6 @@ Dive into comprehensive set of financial statements that provide a snapshot of c
 Benefits of creating this report:
 1. Access profitability and performance.
 2. Support strategic investment based on revenue and expense analysis.
+![Screenshot 2023-12-04 184131](https://github.com/ganesh186k/Ganesh-FinancialReporting/assets/150351407/5d0336c2-703d-4f63-a3e3-553063d20f64)
+![Screenshot 2023-12-04 184153](https://github.com/ganesh186k/Ganesh-FinancialReporting/assets/150351407/45c8e3ae-0b00-4d19-b9f4-8def6d6d5900)
+![Screenshot 2023-12-04 184212](https://github.com/ganesh186k/Ganesh-FinancialReporting/assets/150351407/572558aa-7bfd-46d6-bfce-c05f8f49bf81)
